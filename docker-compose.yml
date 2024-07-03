@@ -1,0 +1,32 @@
+version: "3"
+services:
+  mysql:
+    container_name: mysql
+    image: mysql:8
+    healthcheck:
+      test: mysqladmin ping -h 127.0.0.1 -u root --password=$$MYSQL_ROOT_PASSWORD
+    networks:
+      - students-mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=students_db
+  api:
+    container_name: api
+    build: .
+    ports:
+      - "3000:3000"
+    networks:
+      - students-mysql
+    depends_on:
+      mysql:
+        condition: service_healthy
+    restart: always
+    environment:
+      - DB_USER=root
+      - DB_HOST=mysql
+      - PORT=3000
+      - DB=students_db
+      - DB_PW=password
+
+networks:
+  students-mysql:

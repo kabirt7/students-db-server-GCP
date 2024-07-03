@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "first_name": "Mervin",
+    "last_name": "Brwon",
+    "house": "compton"
+  },
+  {
+    "id": 2,
+    "first_name": "Ollie",
+    "last_name": "Richardson",
+    "house": "compton"
+  },
+  {
+    "id": 3,
+    "first_name": "Gerry",
+    "last_name": "Losey",
+    "house": "landsdown"
+  },
+  {
+    "id": 4,
+    "first_name": "Nicole",
+    "last_name": "Goswami",
+    "house": "burnett"
+  },
+  {
+    "id": 5,
+    "first_name": "Leigha",
+    "last_name": "Saldano",
+    "house": "compton"
+  },
+  {
+    "id": 6,
+    "first_name": "Bethany",
+    "last_name": "Dafonseca",
+    "house": "newton"
+  },
+  {
+    "id": 7,
+    "first_name": "Karma",
+    "last_name": "Clearwater",
+    "house": "landsdown"
+  },
+  {
+    "id": 8,
+    "first_name": "Ahmad",
+    "last_name": "Walz",
+    "house": "burnett"
+  },
+  {
+    "id": 9,
+    "first_name": "Jerry",
+    "last_name": "Galdames",
+    "house": "compton"
+  },
+  {
+    "id": 10,
+    "first_name": "Randi",
+    "last_name": "Welzel",
+    "house": "newton"
+  },
+  {
+    "id": 11,
+    "first_name": "Huey",
+    "last_name": "Burd",
+    "house": "landsdown"
+  },
+  {
+    "id": 12,
+    "first_name": "Shaunda",
+    "last_name": "Scharpf",
+    "house": "burnett"
+  },
+  {
+    "id": 13,
+    "first_name": "Diedra",
+    "last_name": "Fermo",
+    "house": "compton"
+  },
+  {
+    "id": 14,
+    "first_name": "Joan",
+    "last_name": "Sebastiano",
+    "house": "newton"
+  },
+  {
+    "id": 15,
+    "first_name": "Kendal",
+    "last_name": "Cordovano",
+    "house": "landsdown"
+  },
+  {
+    "id": 16,
+    "first_name": "Zackary",
+    "last_name": "Brun",
+    "house": "burnett"
+  },
+  {
+    "id": 17,
+    "first_name": "Marcelino",
+    "last_name": "Sluder",
+    "house": "compton"
+  },
+  {
+    "id": 18,
+    "first_name": "Nicholle",
+    "last_name": "Zeme",
+    "house": "newton"
+  },
+  {
+    "id": 19,
+    "first_name": "Shelby",
+    "last_name": "Nathan",
+    "house": "landsdown"
+  },
+  {
+    "id": 20,
+    "first_name": "Rina",
+    "last_name": "Woznick",
+    "house": "burnett"
+  },
+  {
+    "id": 21,
+    "first_name": "Sybil",
+    "last_name": "Marzinske",
+    "house": "compton"
+  },
+  {
+    "id": 22,
+    "first_name": "Sean",
+    "last_name": "Vanegas",
+    "house": "newton"
+  },
+  {
+    "id": 23,
+    "first_name": "Ivette",
+    "last_name": "Johar",
+    "house": "landsdown"
+  },
+  {
+    "id": 24,
+    "first_name": "Leslie",
+    "last_name": "Malbrough",
+    "house": "burnett"
+  }
+]
